@@ -50,8 +50,8 @@
 - Tailwind CSS v4 Radix UI
 - Zod Lucide-React JSONWebToken
 
-### 연동
-- 출제 기준 2024학년도 수능 국어 출제 매뉴얼 가이드라인
+### 참고자료
+- 2024학년도 수능 국어 출제 매뉴얼 가이드라인, 2015 개정 국어교육과정
 
 ## 환경설정
 
