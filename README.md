@@ -61,7 +61,6 @@ npm run dev
 ```
 
 ```env
-**.env**
 AUTH_USERNAME="admin"
 AUTH_PASSWORD="your_password"
 JWT_SECRET="your_secret_key"
