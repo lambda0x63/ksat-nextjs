@@ -54,12 +54,17 @@
 - 출제 기준 2024학년도 수능 국어 출제 매뉴얼 가이드라인
 
 ## 환경설정
+
+```bash
 npm install
 npm run dev
+```
 
+```env
 **.env**
 AUTH_USERNAME="admin"
 AUTH_PASSWORD="your_password"
 JWT_SECRET="your_secret_key"
 API_ENDPOINT_URL="..."
 API_KEY="..."
+```
